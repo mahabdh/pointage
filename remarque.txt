@@ -1,0 +1,1 @@
+on ne doit pas interdire l'utilisateur à accéde a des pages (fonctionalité) mais plutot de lui iterdire d'effectuer des changements des la base dans les heures iterdites
